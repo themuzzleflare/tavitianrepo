@@ -1,0 +1,317 @@
+Package: cloud.tavitian.logicum
+Version: 5.6-1
+Architecture: iphoneos-arm
+Maintainer: Paul Tavitian <paul@tavitian.cloud>
+Filename: ./debs/cloud.tavitian.logicum_5.6-1_iphoneos-arm.deb
+Size: 3223796
+MD5sum: 5b9b2d39370ec718cf2cd42321d8ed32
+SHA1: ccccba00fafa361b06b7e77d3a421ecbd96654cb
+SHA256: 2131a7bcc00924cef897a24bf6464b10809369a1cac34aabe7b11fee42b408b1
+Section: Applications
+Homepage: https://repo.tavitian.cloud/depictions/?p=cloud.tavitian.logicum
+Description: This simple app serves as a portable database and convenient point of reference for the most common logical fallacies and cognitive biases prevalent in society today.
+Author: Paul Tavitian <feedback@tavitian.cloud>
+Depiction: https://repo.tavitian.cloud/depictions/?p=cloud.tavitian.logicum
+Icon: file:///Applications/Fallacious.app/AppIcon60x60@2x.png
+Name: Fallacious
+Sileodepiction: https://repo.tavitian.cloud/depictions/cloud.tavitian.logicum/depiction.json
+
+Package: cloud.tavitian.logicum
+Version: 5.7-1
+Architecture: iphoneos-arm
+Maintainer: Paul Tavitian <paul@tavitian.cloud>
+Filename: ./debs/cloud.tavitian.logicum_5.7-1_iphoneos-arm.deb
+Size: 1756744
+MD5sum: 2c05502d6a66afc4b34409f5febe8d0e
+SHA1: 65be4fc661d0c48da600840b81570c1ce6c29696
+SHA256: 8cb9230bc7f987f183b7b3836d059c997d89f911d7f9d2e90176df861eb3a525
+Section: Applications
+Homepage: https://pro.fallacious.tavitian.cloud
+Description: This simple app serves as a portable database and convenient point of reference for the most common logical fallacies and cognitive biases prevalent in society today.
+Author: Paul Tavitian <feedback@tavitian.cloud>
+Depiction: https://repo.tavitian.cloud/depictions/?p=cloud.tavitian.logicum
+Icon: file:///Applications/Fallacious.app/AppIcon60x60@2x.png
+Name: Fallacious
+Sileodepiction: https://repo.tavitian.cloud/depictions/cloud.tavitian.logicum/depiction.json
+
+Package: cloud.tavitian.provenance
+Version: 3.0-1
+Architecture: iphoneos-arm
+Maintainer: Paul Tavitian <paul@tavitian.cloud>
+Filename: ./debs/cloud.tavitian.provenance_3.0-1_iphoneos-arm.deb
+Size: 566964
+MD5sum: 30b82fcc6c6dab05678116d9cf4a08ad
+SHA1: f0247ddf2f01753634e0bfb775dd63dad43c80ca
+SHA256: 845f549c29094ead8dad5b3dd94dd53903464b789e5e849cbd82410616531ec7
+Section: Applications
+Homepage: https://repo.tavitian.cloud
+Description: Provenance is a lightweight application that interacts with the Up Banking Developer API to display information about your bank accounts, transactions, categories, tags, and more.
+Author: Paul Tavitian <feedback@tavitian.cloud>
+Depiction: https://repo.tavitian.cloud
+Icon: file:///Applications/Provenance.app/AppIcon60x60@2x.png
+Name: Provenance
+
+Package: cloud.tavitian.provenance
+Version: 3.1-1
+Architecture: iphoneos-arm
+Maintainer: Paul Tavitian <paul@tavitian.cloud>
+Filename: ./debs/cloud.tavitian.provenance_3.1-1_iphoneos-arm.deb
+Size: 570076
+MD5sum: bba5401b25ae48050cd072eaabe72275
+SHA1: dbc6f1a7b817232ad6f8d980ff07d1398a187dfc
+SHA256: c0f5e509d03c6cac863c46d89c77d513dbe29e6d29e308293a6b98dfbe166173
+Section: Applications
+Homepage: https://repo.tavitian.cloud
+Description: Provenance is a lightweight application that interacts with the Up Banking Developer API to display information about your bank accounts, transactions, categories, tags, and more.
+Author: Paul Tavitian <feedback@tavitian.cloud>
+Depiction: https://repo.tavitian.cloud
+Icon: file:///Applications/Provenance.app/AppIcon60x60@2x.png
+Name: Provenance
+
+Package: cloud.tavitian.provenance
+Version: 3.2-1
+Architecture: iphoneos-arm
+Maintainer: Paul Tavitian <paul@tavitian.cloud>
+Filename: ./debs/cloud.tavitian.provenance_3.2-1_iphoneos-arm.deb
+Size: 570280
+MD5sum: 4b55d155b9d4b99568ebd50cbc48e80f
+SHA1: 4cf3c3a7db372cb49c9a9ba3e0a68746a5cbafed
+SHA256: c9b6454a5e956ff50a31cc404e98ab1586c23ab1433d7a3eba79aa8c677a618e
+Section: Applications
+Homepage: https://repo.tavitian.cloud
+Description: Provenance is a lightweight application that interacts with the Up Banking Developer API to display information about your bank accounts, transactions, categories, tags, and more.
+Author: Paul Tavitian <feedback@tavitian.cloud>
+Depiction: https://repo.tavitian.cloud
+Icon: file:///Applications/Provenance.app/AppIcon60x60@2x.png
+Name: Provenance
+
+Package: cloud.tavitian.provenance
+Version: 3.8-1
+Architecture: iphoneos-arm
+Maintainer: Paul Tavitian <paul@tavitian.cloud>
+Filename: ./debs/cloud.tavitian.provenance_3.8-1_iphoneos-arm.deb
+Size: 752520
+MD5sum: e9fca3190df29f7a1f77e168eb0083ef
+SHA1: 4bc12d2a388f4d6b6ee534d377dbf07f17f8d8c4
+SHA256: aa0491f76fbf9090882e6fc4c652f08614907f57e331e0da9cfe8b91fefbbeaa
+Section: Applications
+Homepage: https://repo.tavitian.cloud/package/provenance.html
+Description: Provenance is a lightweight application that interacts with the Up Banking Developer API to display information about your bank accounts, transactions, categories, tags, and more.
+Author: Paul Tavitian <feedback@tavitian.cloud>
+Depiction: https://repo.tavitian.cloud/package/provenance.html
+Icon: file:///Applications/Provenance.app/AppIcon60x60@2x.png
+Name: Provenance
+
+Package: cloud.tavitian.provenance
+Version: 3.9-1
+Architecture: iphoneos-arm
+Maintainer: Paul Tavitian <paul@tavitian.cloud>
+Filename: ./debs/cloud.tavitian.provenance_3.9-1_iphoneos-arm.deb
+Size: 753388
+MD5sum: 0e47632ff51e078595de8101bfa4199e
+SHA1: e01c55ec2f0af53aa79fc637ad636dd24ef9f898
+SHA256: 8a3d26d573bd5da03c33b3485f0b4dea14df3cd43cc5ed0eb21269297daa8577
+Section: Applications
+Homepage: https://repo.tavitian.cloud/package/provenance.html
+Description: Provenance is a lightweight application that interacts with the Up Banking Developer API to display information about your bank accounts, transactions, categories, tags, and more.
+Author: Paul Tavitian <feedback@tavitian.cloud>
+Depiction: https://repo.tavitian.cloud/package/provenance.html
+Icon: file:///Applications/Provenance.app/AppIcon60x60@2x.png
+Name: Provenance
+
+Package: cloud.tavitian.provenance
+Version: 4.0-1
+Architecture: iphoneos-arm
+Maintainer: Paul Tavitian <paul@tavitian.cloud>
+Filename: ./debs/cloud.tavitian.provenance_4.0-1_iphoneos-arm.deb
+Size: 754104
+MD5sum: 771d6ca90153192af85d1bfc2863ab3f
+SHA1: 3b490c922f009ca3b00d326cd47ab695cad25f49
+SHA256: 098e80654d500febb7ad9323b0633b196ab32142d5fd865af48ad0970a11db8d
+Section: Applications
+Homepage: https://repo.tavitian.cloud/depictions/?p=cloud.tavitian.provenance
+Description: Provenance is a lightweight application that interacts with the Up Banking Developer API to display information about your bank accounts, transactions, categories, tags, and more.
+Author: Paul Tavitian <feedback@tavitian.cloud>
+Depiction: https://repo.tavitian.cloud/depictions/?p=cloud.tavitian.provenance
+Icon: file:///Applications/Provenance.app/AppIcon60x60@2x.png
+Name: Provenance
+
+Package: cloud.tavitian.provenance
+Version: 4.1-1
+Architecture: iphoneos-arm
+Maintainer: Paul Tavitian <paul@tavitian.cloud>
+Filename: ./debs/cloud.tavitian.provenance_4.1-1_iphoneos-arm.deb
+Size: 489980
+MD5sum: 9519c3be940287cd9dd334bb5caacbb9
+SHA1: fd2895f8475a0b51e3e0e601c8c653be0405e070
+SHA256: e95047347f24cc36c0055aacc048c92b69cbcf97d54d4e47073beb5f9b927b90
+Section: Applications
+Homepage: https://repo.tavitian.cloud/depictions/?p=cloud.tavitian.provenance
+Description: Provenance is a lightweight application that interacts with the Up Banking Developer API to display information about your bank accounts, transactions, categories, tags, and more.
+Author: Paul Tavitian <feedback@tavitian.cloud>
+Depiction: https://repo.tavitian.cloud/depictions/?p=cloud.tavitian.provenance
+Icon: file:///Applications/Provenance.app/AppIcon60x60@2x.png
+Name: Provenance
+
+Package: cloud.tavitian.provenance
+Version: 4.2-1
+Architecture: iphoneos-arm
+Maintainer: Paul Tavitian <paul@tavitian.cloud>
+Filename: ./debs/cloud.tavitian.provenance_4.2-1_iphoneos-arm.deb
+Size: 489784
+MD5sum: 0a6373dec11e71b5ccb2df827e5f3003
+SHA1: 9b720913acfe6b33538fd133e294edae8a92d262
+SHA256: 5b624629ea4a7c9e09edadaf4b58a33896b2529ed4cb6ac47bbd1ebb9164dc46
+Section: Applications
+Homepage: https://repo.tavitian.cloud/depictions/?p=cloud.tavitian.provenance
+Description: Provenance is a lightweight application that interacts with the Up Banking Developer API to display information about your bank accounts, transactions, categories, tags, and more.
+Author: Paul Tavitian <feedback@tavitian.cloud>
+Depiction: https://repo.tavitian.cloud/depictions/?p=cloud.tavitian.provenance
+Icon: file:///Applications/Provenance.app/AppIcon60x60@2x.png
+Name: Provenance
+Sileodepiction: https://repo.tavitian.cloud/depictions/cloud.tavitian.provenance/depiction.json
+
+Package: cloud.tavitian.provenance
+Version: 4.3-1
+Architecture: iphoneos-arm
+Maintainer: Paul Tavitian <paul@tavitian.cloud>
+Filename: ./debs/cloud.tavitian.provenance_4.3-1_iphoneos-arm.deb
+Size: 490856
+MD5sum: 314c032378e99a16b938ac60581a8452
+SHA1: f35d87b0e66e61d020a8d28f57ef4efec71c71c6
+SHA256: d3d7f3949ac326afd363e7d1fb11db0c9bacc1a6db5a860b797c08b6a0bbe46b
+Section: Applications
+Homepage: https://repo.tavitian.cloud/depictions/?p=cloud.tavitian.provenance
+Description: Provenance is a lightweight application that interacts with the Up Banking Developer API to display information about your bank accounts, transactions, categories, tags, and more.
+Author: Paul Tavitian <feedback@tavitian.cloud>
+Depiction: https://repo.tavitian.cloud/depictions/?p=cloud.tavitian.provenance
+Icon: file:///Applications/Provenance.app/AppIcon60x60@2x.png
+Name: Provenance
+Sileodepiction: https://repo.tavitian.cloud/depictions/cloud.tavitian.provenance/depiction.json
+
+Package: cloud.tavitian.provenance
+Version: 4.4-1
+Architecture: iphoneos-arm
+Maintainer: Paul Tavitian <paul@tavitian.cloud>
+Filename: ./debs/cloud.tavitian.provenance_4.4-1_iphoneos-arm.deb
+Size: 6476344
+MD5sum: 3f89e82f86431846a88e19a2917b9a6d
+SHA1: 7cd2fc4c2bb38cd74c07faad05d5fd4698dc9c2d
+SHA256: 3ad535d0665dc7b83a881e4277de4b541cf6b4fd9e1d5ed7384e8358ce527621
+Section: Applications
+Homepage: https://repo.tavitian.cloud/depictions/?p=cloud.tavitian.provenance
+Description: Provenance is a lightweight application that interacts with the Up Banking Developer API to display information about your bank accounts, transactions, categories, tags, and more.
+Author: Paul Tavitian <feedback@tavitian.cloud>
+Depiction: https://repo.tavitian.cloud/depictions/?p=cloud.tavitian.provenance
+Icon: file:///Applications/Provenance.app/AppIcon60x60@2x.png
+Name: Provenance
+Sileodepiction: https://repo.tavitian.cloud/depictions/cloud.tavitian.provenance/depiction.json
+
+Package: cloud.tavitian.provenance
+Version: 4.5-1
+Architecture: iphoneos-arm
+Maintainer: Paul Tavitian <paul@tavitian.cloud>
+Filename: ./debs/cloud.tavitian.provenance_4.5-1_iphoneos-arm.deb
+Size: 6547868
+MD5sum: 912eaa0a9fd34ca33a2a45a8a6650eb4
+SHA1: 8d8e641afe2c06eaa4c6c11b7eb9aab97844b7de
+SHA256: 693a65d33ad797304180576a344e6fd043ae4ac8c91cafa5435db7fe3862e8ae
+Section: Applications
+Homepage: https://repo.tavitian.cloud/depictions/?p=cloud.tavitian.provenance
+Description: Provenance is a lightweight application that interacts with the Up Banking Developer API to display information about your bank accounts, transactions, categories, tags, and more.
+Author: Paul Tavitian <feedback@tavitian.cloud>
+Depiction: https://repo.tavitian.cloud/depictions/?p=cloud.tavitian.provenance
+Icon: file:///Applications/Provenance.app/AppIcon60x60@2x.png
+Name: Provenance
+Sileodepiction: https://repo.tavitian.cloud/depictions/cloud.tavitian.provenance/depiction.json
+
+Package: cloud.tavitian.provenance
+Version: 4.6-1
+Architecture: iphoneos-arm
+Maintainer: Paul Tavitian <paul@tavitian.cloud>
+Filename: ./debs/cloud.tavitian.provenance_4.6-1_iphoneos-arm.deb
+Size: 1482348
+MD5sum: b11fca484ae82efe4a87b9224354c065
+SHA1: 9d23c843039ee2f8be0df4b0999368779e4a553f
+SHA256: 420811b9024bfd0bac4995f6077502f2d818f4e3d9bf7a29460a1b211b6fd935
+Section: Applications
+Homepage: https://repo.tavitian.cloud/depictions/?p=cloud.tavitian.provenance
+Description: Provenance is a lightweight application that interacts with the Up Banking Developer API to display information about your bank accounts, transactions, categories, tags, and more.
+Author: Paul Tavitian <feedback@tavitian.cloud>
+Depiction: https://repo.tavitian.cloud/depictions/?p=cloud.tavitian.provenance
+Icon: file:///Applications/Provenance.app/AppIcon60x60@2x.png
+Name: Provenance
+Sileodepiction: https://repo.tavitian.cloud/depictions/cloud.tavitian.provenance/depiction.json
+
+Package: cloud.tavitian.provenance
+Version: 4.7-1
+Architecture: iphoneos-arm
+Maintainer: Paul Tavitian <paul@tavitian.cloud>
+Filename: ./debs/cloud.tavitian.provenance_4.7-1_iphoneos-arm.deb
+Size: 1613204
+MD5sum: 9bd160557e6879bfa494423ba45c91c7
+SHA1: b9d660e3d5104a56658188f4e177d8d6d0c81bba
+SHA256: cf2a04c77b84e36465dff4ee06e960be5020cbdef13fa27d3a19768d81fd849f
+Section: Applications
+Homepage: https://repo.tavitian.cloud/depictions/?p=cloud.tavitian.provenance
+Description: Provenance is a lightweight application that interacts with the Up Banking Developer API to display information about your bank accounts, transactions, categories, tags, and more.
+Author: Paul Tavitian <feedback@tavitian.cloud>
+Depiction: https://repo.tavitian.cloud/depictions/?p=cloud.tavitian.provenance
+Icon: file:///Applications/Provenance.app/AppIcon60x60@2x.png
+Name: Provenance
+Sileodepiction: https://repo.tavitian.cloud/depictions/cloud.tavitian.provenance/depiction.json
+
+Package: cloud.tavitian.provenance
+Version: 4.8-1
+Architecture: iphoneos-arm
+Maintainer: Paul Tavitian <paul@tavitian.cloud>
+Filename: ./debs/cloud.tavitian.provenance_4.8-1_iphoneos-arm.deb
+Size: 1729824
+MD5sum: 4253c306731e77ad2fe318ca157accca
+SHA1: 30ad8500e5de6d5d8dee64cd347ea0f29049eac8
+SHA256: 653903421699bae9fc3d8f9885fc103b40441cad55b35db0a6999e19f2baab75
+Section: Applications
+Homepage: https://repo.tavitian.cloud/depictions/?p=cloud.tavitian.provenance
+Description: Provenance is a lightweight application that interacts with the Up Banking Developer API to display information about your bank accounts, transactions, categories, tags, and more.
+Author: Paul Tavitian <feedback@tavitian.cloud>
+Depiction: https://repo.tavitian.cloud/depictions/?p=cloud.tavitian.provenance
+Icon: file:///Applications/Provenance.app/AppIcon60x60@2x.png
+Name: Provenance
+Sileodepiction: https://repo.tavitian.cloud/depictions/cloud.tavitian.provenance/depiction.json
+
+Package: cloud.tavitian.provenance
+Version: 4.9-1
+Architecture: iphoneos-arm
+Maintainer: Paul Tavitian <paul@tavitian.cloud>
+Filename: ./debs/cloud.tavitian.provenance_4.9-1_iphoneos-arm.deb
+Size: 1734120
+MD5sum: d1b44ddcb6c9cf37b63e3e70c1fd116d
+SHA1: 6359fd8bd40772e1359a6e2d71a16d2fe39c1856
+SHA256: a248b44e09af40b091c28a54b94f6b4cb7f6d3679f418a8fb0bc2ce47da87cbc
+Section: Applications
+Homepage: https://repo.tavitian.cloud/depictions/?p=cloud.tavitian.provenance
+Description: Provenance is a lightweight application that interacts with the Up Banking Developer API to display information about your bank accounts, transactions, categories, tags, and more.
+Author: Paul Tavitian <feedback@tavitian.cloud>
+Depiction: https://repo.tavitian.cloud/depictions/?p=cloud.tavitian.provenance
+Icon: file:///Applications/Provenance.app/AppIcon60x60@2x.png
+Name: Provenance
+Sileodepiction: https://repo.tavitian.cloud/depictions/cloud.tavitian.provenance/depiction.json
+
+Package: cloud.tavitian.provenance
+Version: 5.0-1
+Architecture: iphoneos-arm
+Maintainer: Paul Tavitian <paul@tavitian.cloud>
+Filename: ./debs/cloud.tavitian.provenance_5.0-1_iphoneos-arm.deb
+Size: 1772416
+MD5sum: f2ff969aae0a95132609e4016961db7a
+SHA1: 2d512caea98d917dabf281cd8b2249c83d680d79
+SHA256: cdc62cd09d5135db19a815d7a3283e8e283e0c79d81082984754a63d1d1a60e9
+Section: Applications
+Homepage: https://repo.tavitian.cloud/depictions/?p=cloud.tavitian.provenance
+Description: Provenance is a lightweight application that interacts with the Up Banking Developer API to display information about your bank accounts, transactions, categories, tags, and more.
+Author: Paul Tavitian <feedback@tavitian.cloud>
+Depiction: https://repo.tavitian.cloud/depictions/?p=cloud.tavitian.provenance
+Icon: file:///Applications/Provenance.app/AppIcon60x60@2x.png
+Name: Provenance
+Sileodepiction: https://repo.tavitian.cloud/depictions/cloud.tavitian.provenance/depiction.json
+
