@@ -1,0 +1,8 @@
+Origin: Tavitian Cloud
+Label: Tavitian Cloud
+Suite: stable
+Version: 1.0
+Codename: tcloud
+Architectures: iphoneos-arm
+Components: main
+Description: Tavitian Cloud Repository
