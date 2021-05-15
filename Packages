@@ -301,7 +301,7 @@ Package: cloud.tavitian.provenance
 Version: 5.0-1
 Architecture: iphoneos-arm
 Maintainer: Paul Tavitian <paul@tavitian.cloud>
-Filename: ./debs/cloud.tavitian.provenance_5.0-1_iphoneos-arm.deb
+Filename: https://github.com/themuzzleflare/tavitianrepo/releases/download/cloud.tavitian.provenance_5.0-1_iphoneos-arm/cloud.tavitian.provenance_5.0-1_iphoneos-arm.deb
 Size: 1772416
 MD5sum: f2ff969aae0a95132609e4016961db7a
 SHA1: 2d512caea98d917dabf281cd8b2249c83d680d79
